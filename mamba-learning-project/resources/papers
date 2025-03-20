@@ -1,0 +1,33 @@
+# Key Resources for Mamba Learning
+
+## Papers
+
+### Foundational Papers
+1. Albert Gu, Karan Goel, and Christopher Ré. "Efficiently Modeling Long Sequences with Structured State Spaces" (2021)
+   - Link: https://arxiv.org/abs/2111.00396
+   - Overview: Introduces the S4 model for efficient sequence modeling
+
+2. Albert Gu and Tri Dao. "Mamba: Linear-Time Sequence Modeling with Selective State Spaces" (2023)
+   - Link: https://arxiv.org/abs/2312.00752
+   - Overview: Introduces the Mamba architecture with selective state spaces
+
+### Additional Reading
+1. "HiPPO: Recurrent Memory with Optimal Polynomial Projections" (2020)
+   - Link: https://arxiv.org/abs/2008.07669
+   - Overview: Introduces the mathematical framework for continuous-time memory
+
+## Implementation References
+
+1. Official Mamba Repository
+   - Link: https://github.com/state-spaces/mamba
+
+2. S4 Implementation
+   - Link: https://github.com/state-spaces/s4
+
+## Courses and Tutorials
+
+1. Control Theory Basics
+   - MIT OCW: https://ocw.mit.edu/courses/mechanical-engineering/2-171-system-dynamics-and-control-fall-2016/
+
+2. Linear Algebra
+   - 3Blue1Brown: Essence of Linear Algebra - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
